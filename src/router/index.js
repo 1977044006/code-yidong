@@ -71,6 +71,7 @@ const routes = [
   }
 
 ]
+// tie'chui -11111111111111
 
 const router = new VueRouter({
   mode: 'hash', // history  hash
