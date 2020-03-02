@@ -1,3 +1,7 @@
+/*
+  author:kerwin
+*/
+
 import Vue from 'vue'
 import VueRouter from 'vue-router' // 路由核心模块
 import Film from '@/views/Film'
